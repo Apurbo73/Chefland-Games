@@ -1,4 +1,4 @@
-﻿# Chefland-Games
+### Chefland Games
 
 This C++ program checks whether four binary values are all zero for each test case and prints a result based on that.
 
