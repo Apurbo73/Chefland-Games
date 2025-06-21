@@ -30,3 +30,6 @@ IN
 OUT
 ```
 
+ This program reads a number of test cases and, for each one, checks four input values: R1, R2, R3, and R4. If all four values are zero, it prints "IN"; otherwise, it prints "OUT". The check is done using a simple condition inside a loop that repeats for the number of test cases.
+
+The logic is useful in situations where you want to confirm that all conditions or inputs are "off" or "inactive" (represented by 0). If even one input is "on" or active (non-zero), the program considers it "OUT". It’s a basic way to detect if a system is entirely idle or not.
