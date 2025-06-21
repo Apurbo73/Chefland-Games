@@ -30,4 +30,3 @@ IN
 OUT
 ```
 
-Let me know if you’d like a [simplified pseudocode](f) or [real-world analogy](f) for this logic.
